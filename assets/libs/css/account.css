@@ -1,0 +1,64 @@
+body{
+    background: url('../IMAGES/user-creation.jpg');
+    background-size: cover;
+  }
+  form{
+    margin-left: 60%;
+    margin-top:2%;
+    height: 560px;
+    width: 350px;
+    background: white;
+  }
+  h1{
+    padding: 20px 0px 0px 20px;
+    color: gray;
+  }
+  img{
+    margin: 20px 90px 0px 90px;
+    height:160px;
+    width:160px;
+    border-radius:100px;
+    border:1px solid white;
+  }
+  input[type="text"], input[type="password"]{
+    margin: 20px 35px 0px 35px;
+    height: 25px;
+    width: 240px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    color: grey;
+    background-color: white;
+    padding: 8px 20px;
+    font-size: 20px;
+  }
+  input[type="submit"] {
+    margin: 20px 100px 0px 120px;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    color: white;
+    background-color: gray;
+    padding: 8px 20px;
+    font-size: 20px;
+  }
+  .upload-button{
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  .btn{
+    border: none;
+    color: grey;
+    background: none;
+  }
+  .upload-button input[type="file"]{
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+  h1{
+    padding-left: 60px;
+  }

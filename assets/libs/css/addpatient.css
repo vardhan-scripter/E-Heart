@@ -1,0 +1,37 @@
+body{
+    background: url('../IMAGES/user-creation.jpg');
+    background-size: cover;
+  }
+  form{
+    margin-left: 60%;
+    margin-top:2%;
+    height: 600px;
+    width: 350px;
+    background: white;
+  }
+  h1{
+    padding: 20px 0px 0px 20px;
+  }
+  input[type="text"], input[type="password"]{
+    margin: 20px 50px 0px 50px;
+    height: 40px;
+    width: 240px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background: black;
+    padding-left: 20px;
+    color: white;
+  }
+  input[type="submit"] {
+    margin: 20px 100px 0px 120px;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background: black;
+    padding-left: 10px;
+    color: white;
+  }
+  h1{
+    padding-left: 60px;
+  }

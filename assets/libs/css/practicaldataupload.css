@@ -1,0 +1,34 @@
+     body{
+        background: url('../IMAGES/login-background.jpg');
+        background-size: cover;
+      }
+      form{
+        margin-left: 60%;
+        margin-top: 10%;
+        height: 260px;
+        width: 320px;
+        background: white;
+      }
+      h1{
+        padding: 20px 0px 0px 20px;
+      }
+      input[type="text"]{
+        margin: 30px 60px 0px 60px;
+        height: 40px;
+        width: 200px;
+        border-radius: 20px;
+        border: 1px solid black;
+        background: black;
+        padding-left: 20px;
+        color: white;
+      }
+      input[type="submit"] {
+        margin: 40px 100px 0px 100px;
+        height: 40px;
+        width: 100px;
+        border-radius: 20px;
+        border: 1px solid black;
+        background: black;
+        padding-left: 10px;
+        color: white;
+      }

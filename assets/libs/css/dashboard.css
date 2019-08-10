@@ -1,0 +1,19 @@
+canvas {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+li{
+    text-align: center;
+}
+input[type="submit"]{
+background: transparent;
+color: white;
+border: none;
+}
+.dashboard-wrapper {
+position: relative;
+left: 0;
+margin-left: 264px;
+min-height: 600px !important;
+}

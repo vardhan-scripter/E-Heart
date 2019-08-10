@@ -1,0 +1,9 @@
+body{
+    padding-top: 200px;
+    text-align: center;
+    background: url('../IMAGES/home.jpg');
+    background-size: cover;
+  }
+  p{
+    margin-left: 40%;
+  }
